@@ -7,3 +7,4 @@ open-source clone of LetterLoop bc fuck paying for things
 
 ### To do:
 - the logo image is not free rip
+- migrate to node/ejs
